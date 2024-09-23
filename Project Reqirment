@@ -1,0 +1,20 @@
+Requirements
+Create a Slicers for filter the data 
+        Filter data Year wise
+        Filter data Category wise
+        Filter data Market wise
+
+Create a KPI Cards for showing 
+Total Sales 
+Total Qty
+Total Profit
+Avg Delivery Days
+
+Make a column chart for showing sales by State
+Make a column chart for showing returned Order By Region
+Make a pie chart for showing sales by Market
+Make a pie chart for showing sales by segment
+Make a Bar chart for showing top 5 sales products
+Make a Bar chart for showing Bottom 5 sales products
+Make a Map visual for showing state wise profit
+
